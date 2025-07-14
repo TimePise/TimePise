@@ -39,8 +39,8 @@
 ---
 
 ## 📫 연락처
-- 이메일: [your-email@example.com]
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 이메일: [hm06077@naver.com / rsh7006@google.com]
+- GitHub: [github.com/TimePise](https://github.com/TimePise)
 
 ---
 
