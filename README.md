@@ -59,7 +59,6 @@
 </p>
 
 <p align="center">
-  📬 이메일 수동 입력 시: <br>
   📩 Naver: <code>hm06077@naver.com</code> <br>
   📩 Gmail: <code>rsh7006@gmail.com</code>
 </p>
