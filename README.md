@@ -56,7 +56,12 @@
   <a href="mailto:hm06077@naver.com"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
   <a href="mailto:rsh7006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TimePise"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> -->
+</p>
+
+<p align="center">
+  📬 이메일 수동 입력 시: <br>
+  📩 Naver: <code>hm06077@naver.com</code> <br>
+  📩 Gmail: <code>rsh7006@gmail.com</code>
 </p>
 
 ---
