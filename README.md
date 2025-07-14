@@ -3,7 +3,7 @@
 <p align="center">
 💻 Python 기반 <strong>웹 백엔드 개발자</strong>로 Django 프레임워크를 중심으로 프로젝트를 진행해왔으며,  
 간단한 HTML/CSS 프론트 작업 경험도 가지고 있습니다.  
-<strong>백엔드를 중심으로</strong> 안정적인 시스템을 설계하며, <strong>프론트엔드와의 조화</strong>도 고민하는 개발자입니다.
+<strong>백엔드를 중심으로</strong> 안정적인 시스템을 설계하며, <strong>프론트엔드</strong>도 고민하는 개발자입니다.
 </p>
 
 ---
