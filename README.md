@@ -1,7 +1,7 @@
 <h1 align="center"> 안녕하세요! 저는 나효상(Na HyoSang)입니다.</h1>
 
 <p align="center">
-💻 Python 기반 <strong>웹 백엔드 개발자</strong>로 Django 프레임워크를 중심으로 프로젝트를 진행해왔으며,  
+ Python 기반 <strong>웹 백엔드 개발자</strong>로 Django 프레임워크를 중심으로 프로젝트를 진행해왔으며,  
 간단한 HTML/CSS 프론트 작업 경험도 가지고 있습니다.  
 <strong>백엔드를 중심으로</strong> 시스템을 설계하며, <strong>프론트엔드</strong>도 다루는 개발자입니다.
 </p>
