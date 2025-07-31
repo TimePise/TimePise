@@ -4,6 +4,7 @@
  Python 기반 <strong>웹 백엔드 개발자</strong>로 Django 프레임워크를 중심으로 프로젝트를 진행해왔으며,  
 간단한 HTML/CSS 프론트 작업 경험도 가지고 있습니다.  
 <strong>백엔드를 중심으로</strong> 시스템을 설계하며, <strong>프론트엔드</strong>도 다루는 개발자입니다.
+ 요즘은 <strong>'데이터분석'</strong> 하는 것에도 관심을 두고 있습니다.
 </p>
 
 ---
@@ -38,6 +39,7 @@
 - 🔷 **JavaScript / React**: 프론트엔드 UI 개발 능력 향상 중  
 - 🔷 **Django Rest Framework (DRF)**: 효율적인 RESTful API 개발  
 - 🔷 **기초 딥러닝/머신러닝**: 분류/예측 모델 실습 및 프로젝트 적용 고려
+- 🔷 **데이터 분석 및 데이터 전처리** : Pandas 및 EDA로 공부중
 
 ---
 
