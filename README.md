@@ -30,7 +30,7 @@
 ## 📌 주요 프로젝트
 
 <details>
-<summary><b>🛡 낙상 감지 시스템 (캡스톤 디자인) — Click to expand</b></summary>
+<summary><b>🛡 낙상 감지 시스템 (캡스톤 디자인) — Click</b></summary>
 
 > **실시간 영상 분석 기반 고령자 낙상 감지 및 알림 시스템**
 
@@ -44,7 +44,7 @@
 ---
 
 <details>
-<summary><b>💹 iM뱅크 금융 데이터 분석 프로젝트 — Click to expand</b></summary>
+<summary><b>💹 iM뱅크 금융 데이터 분석 프로젝트 — Click</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-iM%20Digital%20Banker%20Academy%206기-blue?style=flat-square" />
