@@ -1,10 +1,10 @@
 <h1 align="center"> 안녕하세요! 저는 나효상(Na HyoSang)입니다.</h1>
 
 <p align="center">
- Python 기반 <strong>웹 백엔드 개발자</strong>로 Django 프레임워크를 중심으로 프로젝트를 진행해왔으며,  
- 간단한 HTML/CSS 프론트 작업 경험도 가지고 있습니다.  
- <strong>백엔드를 중심으로</strong> 시스템을 설계하며, <strong>프론트엔드</strong>도 다루는 개발자입니다.  
- 요즘은 <strong>'데이터 분석'</strong>에도 큰 관심을 가지고 있습니다.
+ Python 기반의 <strong>웹 백엔드 & 데이터 분석 개발자</strong>입니다.<br>
+ Django 프레임워크를 중심으로 시스템을 설계하고,  
+ 데이터 수집·전처리·분석을 통해 <strong>비즈니스 인사이트를 도출하는 개발자</strong>입니다.<br>
+ 서비스의 구조를 설계하는 동시에, 데이터를 통해 문제를 정의하고 해결 방안을 제시합니다.
 </p>
 
 ---
@@ -16,13 +16,14 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -44,6 +45,38 @@
 ---
 
 <details>
+<summary><b>🏦 CBDC 상용화에 따른 기업 고객 이탈 예측 프로젝트 — Click</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-iM%20Digital%20Banker%20Academy%206기-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-FinTech%20%7C%20Machine%20Learning-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20XGBoost%20%7C%20LightGBM-lightgrey?style=flat-square" />
+</p>
+
+> **CBDC(중앙은행 디지털화폐) 상용화에 따라 기업 고객의 이탈 가능성을 예측하고 대응 전략을 제시한 머신러닝 프로젝트**
+
+📅 **기간:** 2025.09 – 2025.10  
+👥 **팀명:** 4INT (포인트)  
+🎓 **참여 과정:** iM Digital Banker Academy 6기  
+
+#### 💡 핵심 내용
+- iM뱅크 기업 거래 데이터를 기반으로 **CBDC 도입 시 잠재적 이탈 고객 예측**
+- **로지스틱 회귀 / XGBoost / LightGBM** 모델을 활용한 예측 분석  
+- **디지털 이용률**, **예대율**, **외환 비중** 등 주요 파생변수 생성 및 중요도 분석  
+- 결과 기반으로 업종별 **이탈 위험도 시각화** 및 **리텐션 전략 제안**
+
+#### 📈 주요 인사이트
+| 구분 | 결과 |
+|------|------|
+| 💻 디지털 친화형 기업 | CBDC 전환 시 이탈 확률↑ |
+| 💰 예금 의존형 기업 | 유동성 이탈 리스크↑ |
+| 🏭 전통 산업군 | 디지털 적응도 낮음 → 보존 전략 필요 |
+
+</details>
+
+---
+
+<details>
 <summary><b>💹 iM뱅크 금융 데이터 분석 프로젝트 — Click</b></summary>
 
 <p align="center">
@@ -54,32 +87,26 @@
 
 > **기업 고객의 금융행동 데이터를 기반으로 수익성·디지털 전환·상품 전략을 분석**
 
-📅 **기간:** 2025.09  
-🎓 **참여 과정:** iM Digital Banker Academy 6기  
+📅 **기간:** 2025.08 - 2025.09
 🎯 **목표:** 업종·지역·등급별 금융행동 차이를 정량 분석하여  
 은행의 수익성과 여신 전략 수립에 인사이트 제공
 
-#### 📈 핵심 분석 포인트
+#### 📊 핵심 분석 포인트
 | 분석 주제 | 주요 결과 |
 |------------|------------|
-| 💻 디지털 전환 | 디지털 이용률↑ → 예대마진↓ (디지털 고객의 수익성 구조 차이) |
-| 💰 상품 다양성 | 보유 상품 다양성↑ → 수익성↑ (교차판매 효과) |
+| 💻 디지털 전환 | 디지털 이용률↑ → 예대마진↓ |
+| 💰 상품 다양성 | 보유 상품 다양성↑ → 수익성↑ |
 | 🧭 고객 세그먼트 | “VIP ≠ 고마진 고객” (단순 등급 관리의 한계) |
-
-#### 🧠 활용 및 성과
-- 데이터 기반 여신·마케팅 전략 인사이트 도출  
-- 업종·지역별 리스크 및 수익성 구조 시각화  
-- 의사결정 지원용 지표 설계
 
 </details>
 
 ---
 
 ## 🌱 현재 학습 중인 것들
-- 🔷 **JavaScript / React**: 프론트엔드 UI 개발 능력 향상 중  
-- 🔷 **Django Rest Framework (DRF)**: 효율적인 RESTful API 개발  
-- 🔷 **기초 딥러닝/머신러닝**: 분류·예측 모델 실습 및 프로젝트 적용  
-- 🔷 **데이터 분석 및 전처리**: Pandas 기반 EDA 및 시각화  
+- 🔷 **Django Rest Framework (DRF)**: RESTful API 서버 구축  
+- 🔷 **JavaScript / React**: 프론트엔드 연동 실습  
+- 🔷 **Machine Learning / AI**: 예측·분류 모델 실전 적용  
+- 🔷 **데이터 분석**: EDA, 시각화, 통계 기반 리포트 작성  
 
 ---
 
