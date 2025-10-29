@@ -29,17 +29,22 @@
 
 ## 📌 주요 프로젝트
 
-### 🛡 낙상 감지 시스템 (캡스톤 디자인)
+<details>
+<summary><b>🛡 낙상 감지 시스템 (캡스톤 디자인) — Click to expand</b></summary>
+
 > **실시간 영상 분석 기반 고령자 낙상 감지 및 알림 시스템**
+
 - 🧠 GRU 모델과 MediaPipe를 활용한 자세 인식 및 위험 판단  
 - 📡 Django 기반 WebSocket 실시간 알림 기능 구현  
 - 📹 OpenCV 스트리밍 및 낙상 발생 위치 추출  
-- 🧩 Django 서버 + OpenPose 영상 분석 + UI 출력 구조 설계  
+- 🧩 아키텍처: Django 서버 + OpenPose 영상 분석 + UI 출력
+
+</details>
 
 ---
 
 <details>
-<summary><b>💹 iM뱅크 금융 데이터 분석 프로젝트 (Click to expand)</b></summary>
+<summary><b>💹 iM뱅크 금융 데이터 분석 프로젝트 — Click to expand</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-iM%20Digital%20Banker%20Academy%206기-blue?style=flat-square" />
@@ -47,28 +52,24 @@
   <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20SciPy%20%7C%20Seaborn-lightgrey?style=flat-square" />
 </p>
 
-> **기업 고객의 금융행동 데이터를 기반으로 수익성·디지털 전환·상품 전략을 분석한 프로젝트**
+> **기업 고객의 금융행동 데이터를 기반으로 수익성·디지털 전환·상품 전략을 분석**
 
 📅 **기간:** 2025.09  
 🎓 **참여 과정:** iM Digital Banker Academy 6기  
 🎯 **목표:** 업종·지역·등급별 금융행동 차이를 정량 분석하여  
-은행의 수익성과 여신 전략 수립에 인사이트 제공  
-
----
+은행의 수익성과 여신 전략 수립에 인사이트 제공
 
 #### 📈 핵심 분석 포인트
 | 분석 주제 | 주요 결과 |
 |------------|------------|
-| 💻 디지털 전환 | 디지털 이용률↑ → 예대마진↓ (디지털 고객의 수익성 구조 다름) |
+| 💻 디지털 전환 | 디지털 이용률↑ → 예대마진↓ (디지털 고객의 수익성 구조 차이) |
 | 💰 상품 다양성 | 보유 상품 다양성↑ → 수익성↑ (교차판매 효과) |
-| 🧭 고객 세그먼트 | “VIP ≠ 고마진 고객” 현상 확인 (단순 등급 관리의 한계) |
-
----
+| 🧭 고객 세그먼트 | “VIP ≠ 고마진 고객” (단순 등급 관리의 한계) |
 
 #### 🧠 활용 및 성과
 - 데이터 기반 여신·마케팅 전략 인사이트 도출  
 - 업종·지역별 리스크 및 수익성 구조 시각화  
-- 은행 내 의사결정 지원용 지표 설계  
+- 의사결정 지원용 지표 설계
 
 </details>
 
